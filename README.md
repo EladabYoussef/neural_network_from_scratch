@@ -22,4 +22,5 @@ To set up the project and start experimenting with the models, follow these step
 
 1. **Clone the Repository:**
 2. **download the dataset from here:** https://www.kaggle.com/datasets/oddrationale/mnist-in-csv
+3. **create a directory named datasets in your project directory and put the datasets in it**
    
