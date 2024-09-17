@@ -16,6 +16,7 @@ This project provides a comprehensive framework for experimenting with machine l
 - **Experimentation Framework:**
   - **Architecture Testing:** Easily swap and test different neural network architectures and logistic regression configurations.
   - **Performance Comparison:** Evaluate and compare the performance of various models using visualizations and metrics.
+- **Parameters saving**: i saved the parameters of the model after training in a text file using json.
 
 ## Installation
 To set up the project and start experimenting with the models, follow these steps:
